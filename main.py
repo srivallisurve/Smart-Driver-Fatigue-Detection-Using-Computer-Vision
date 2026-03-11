@@ -9,7 +9,7 @@ from utils import calculate_EAR, calculate_MAR
 pygame.mixer.init()
 
 def play_alarm():
-    pygame.mixer.music.load("alarm.wav")
+    pygame.mixer.music.load("hii.wav")
     pygame.mixer.music.play(-1)   # Loop continuously
 
 # MediaPipe setup

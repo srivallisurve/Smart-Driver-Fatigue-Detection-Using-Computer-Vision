@@ -1,6 +1,5 @@
 opencv-python-headless
 mediapipe
-pygame
 numpy
 streamlit
 av
